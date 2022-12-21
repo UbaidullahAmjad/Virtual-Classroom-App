@@ -1,9 +1,9 @@
 # Introduction:
 The client needs a web-based online classroom platform for their education institute that allows effective coordination between multiple stakeholders. The intended system enables videotelephony classrooms for their users for better and more effective learning coordination from the comfort of their homes.
 
-Based on our remarkable journey in software development client contacted  ‘Cplus Soft Pvt. Limited for the development of this online web-based platform.
+Based on my remarkable journey in software development client contacted me for the development of this online web-based platform.
 
-We accepted this project development proposal and starts working on it considering this project a challenge for us. We developed each functionality and make this project a success story for us.
+I accepted this project development proposal and starts working on it considering this project a challenge. I developed each functionality and make this project a success story for us.
 # Country:
 UK
 # Industry:
@@ -28,8 +28,8 @@ Education
 - Laptop
 - Desktop
 
-# What We Delivered:
-We delivered a cross-platform system that is able to work on all platforms and devices in a user-friendly and responsive way. We divided the system into different modules for proficient performance and response. Following is the system that we delivered that can be run on multiple platforms.
+# What I Delivered:
+I delivered a cross-platform system that is able to work on all platforms and devices in a user-friendly and responsive way. I divided the system into different modules for proficient performance and response. Following is the system that I delivered that can be run on multiple platforms.
 ## Admin Module App:
 This is the admin module that manages all the control and coordination of the website in a better way. Following are the functionalities that the admin can perform
 - Classrooms management and control
